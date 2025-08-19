@@ -6,5 +6,5 @@ content-type: application/json
 
 {
     "content": "VS code was here",
-    "time": "Wed, 21 Oct 2015 18:27:50 GMT"
+    "important": true
 }
